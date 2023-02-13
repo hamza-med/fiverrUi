@@ -1,12 +1,6 @@
-import { Button } from "antd"
+import React from "react";
+const App = () => {
+  return <div>hello</div>;
+};
 
-function App() {
-
-  return (
-    <>
-      <Button type="primary">hghghgh</Button>
-    </>
-  )
-}
-
-export default App
+export default App;
